@@ -1,0 +1,13 @@
+com\morningstar\ProductService\controller\GetProductController.class
+com\morningstar\ProductService\entity\Order.class
+com\morningstar\ProductService\health\HealthIndicatorImpl.class
+com\morningstar\ProductService\repository\ProductRepository.class
+com\morningstar\ProductService\entity\Product.class
+com\morningstar\ProductService\model\ProductPrice.class
+com\morningstar\ProductService\service\impl\ProductServiceImpl.class
+com\morningstar\ProductService\service\ProductService.class
+com\morningstar\ProductService\model\ProductDetail.class
+com\morningstar\ProductService\exception\ProductException.class
+com\morningstar\ProductService\ProductServiceApplication.class
+com\morningstar\ProductService\service\template\PriceTemplate.class
+com\morningstar\ProductService\controller\PostProductController.class
